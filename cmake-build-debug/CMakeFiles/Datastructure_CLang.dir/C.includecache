@@ -9,4 +9,8 @@
 C:/Users/Tobias Rosenvinge/Documents/GitHub/repos/Datastructure-CLang/main.c
 stdio.h
 -
+stdlib.h
+-
+limits.h
+-
 
